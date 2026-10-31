@@ -6,7 +6,7 @@
 
 Building **agent-native** desktop & web tools — where models, sessions, and deliverables stay inspectable.
 
-[![GitHub](https://img.shields.io/badge/GitHub-raylee-ai-181717?logo=github)](https://github.com/raylee-ai)
+[![GitHub](https://img.shields.io/badge/GitHub-raylee--ai-181717?logo=github)](https://github.com/raylee-ai)
 [![Lancer](https://img.shields.io/badge/Lancer-v1.0.1_Alpha-4F46E5)](https://github.com/raylee-ai/lancer)
 
 ---
