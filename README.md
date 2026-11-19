@@ -1,49 +1,39 @@
 <p align="center">
-  <img src="banner.png" alt="Lancer — agent-native desktop workspace" width="100%" />
+  <img src="assets/intro.svg" width="560" alt="Hi, I'm Ray Lee. I build AI tools." />
 </p>
-
-# Ray Lee · `raylee-ai`
-
-Building **agent-native** desktop & web tools — where models, sessions, and deliverables stay inspectable.
-
-[![GitHub](https://img.shields.io/badge/GitHub-raylee--ai-181717?logo=github)](https://github.com/raylee-ai)
-[![Lancer](https://img.shields.io/badge/Lancer-v1.0.1_Alpha-4F46E5)](https://github.com/raylee-ai/lancer)
-
----
-
-## Now
-
-**Lancer** 是业务侧的**落地工作台**——桌面 GUI 接管豆包会话，做「一键式业务落地」的初尝试。作者侧第一版已跑通；因业务数据暂不能公开，[开源仓](https://github.com/raylee-ai/lancer)主要暴露工作区、会话过程与可复用 UI，而不是业务库。
-
-当前打通的主线：
-
-- **视频一键复刻**
-- **全球竞品调研**
-- **GTM**
-- **京东经营投放**
-
-技术壳层：并行会话、GitTree 过程视图、光线反馈；基于 [pi-gui](https://github.com/minghinmatthewlam/pi-gui) & [pi](https://github.com/earendil-works/pi)（MIT）。另有 [AI-native UI](https://github.com/raylee-ai/ai-native-ui-skill) 设计与动效技能。
-
-## Focus
-
-| Area | What I ship |
-| --- | --- |
-| 业务落地 | 豆包会话 GUI 接管；视频复刻 / 竞品调研 / GTM / 京东投放一键链路（业务数据私有） |
-| Agents & infra | Multi-session orchestration, tool loops, local desktop agents |
-| Product UI | Process-visible chats, work trees, ceremonial / light aesthetics |
-| Growth surfaces | SEO / GEO, content systems, Shopify agent workflows |
-
-## Stack
-
-`TypeScript` · `Electron` · `React` · `pnpm` · `Node` · model gateways · Codex / OpenAI-compatible APIs
-
-## Notes
-
-- Prefer **original** UI/icon work; Fate-series silhouette & blue–gold as a *mood* reference only — never game assets.
-- Open-source when it helps others rebuild the same path; private research stays private.
-
----
 
 <p align="center">
-  <sub>中央民族大学 · AI × 产品 · Beijing</sub>
+  👋 <strong>我在做 Lancer，一个能同时看见 AI 会话、任务分支和交付文件的桌面工作台。</strong>
 </p>
+
+<p align="center">
+  <a href="https://github.com/raylee-ai/lancer">💻 Lancer</a> ·
+  <a href="https://raylee-ai.github.io/">📖 我的宗教学研究札记</a>
+</p>
+
+<p align="center">
+  <code>📍 北京</code> <code>中央民族大学</code> <code>AI × 产品</code>
+</p>
+
+<table>
+<tr>
+<td valign="top" width="50%">
+
+### 💼 产品实践
+
+**视频工作流** · 在 Lancer 里接入豆包会话，提取视频关键帧，把分析依据和交接文件放回同一工作区。
+
+**调研与增长** · 我也在用这套工作台探索全球竞品调研、GTM 和京东经营投放。
+
+</td>
+<td valign="top" width="50%">
+
+### 💻 开源项目
+
+**[Lancer](https://github.com/raylee-ai/lancer)** · 基于 pi-gui 和 pi 的桌面 AI 工作区。在 GitTree 里可以沿着并行会话，追踪每份交付物的来路。
+
+**[AI-Native UI Skills](https://github.com/raylee-ai/ai-native-ui-skill)** · 给 Codex 用的黑白界面设计技能，包含中文排版、弹簧动效和交互组件示例。
+
+</td>
+</tr>
+</table>

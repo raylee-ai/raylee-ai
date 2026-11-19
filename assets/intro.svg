@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="560" height="52" viewBox="0 0 560 52" role="img" aria-labelledby="title">
+  <title id="title">Hi, I'm Ray Lee. I build AI tools.</title>
+  <style>
+    text { fill: #0969da; }
+    @media (prefers-color-scheme: dark) { text { fill: #58a6ff; } }
+  </style>
+  <text x="280" y="35" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="24" font-weight="700">Hi, I'm Ray Lee. I build AI tools.</text>
+</svg>
