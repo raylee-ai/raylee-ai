@@ -32,6 +32,8 @@
 
 **[Lancer](https://github.com/raylee-ai/lancer)** · A desktop AI workspace built on pi-gui and pi. Its GitTree view shows where sessions branch, how they come back together, and which files they produce.
 
+**[Bibliographic Metadata Audit](https://github.com/raylee-ai/bibliographic-metadata-audit)** · An offline tool from my religious studies research. It shows which citations disappear when a bibliography moves between tools.
+
 **[AI-Native UI Skills](https://github.com/raylee-ai/ai-native-ui-skill)** · Design skills for Codex, with examples of monochrome interfaces, Chinese typography, and spring animations.
 
 </td>
