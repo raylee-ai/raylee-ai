@@ -3,36 +3,36 @@
 </p>
 
 <p align="center">
-  👋 <strong>我在做 Lancer，一个能同时看见 AI 会话、任务分支和交付文件的桌面工作台。</strong>
+  My academic background is in <strong>religious studies and philosophy</strong>.<br />
+  I build <a href="https://github.com/raylee-ai/lancer">Lancer</a>, a desktop workspace for following an AI task from its first prompt to the files it produces.
 </p>
 
 <p align="center">
-  <a href="https://github.com/raylee-ai/lancer">💻 Lancer</a> ·
-  <a href="https://raylee-ai.github.io/">📖 我的宗教学研究札记</a>
+  📖 <a href="https://raylee-ai.github.io/">Read my research notes on religion (in Chinese)</a>
 </p>
 
 <p align="center">
-  <code>📍 北京</code> <code>中央民族大学</code> <code>AI × 产品</code>
+  <code>📍 Beijing</code> <code>Minzu University of China</code>
 </p>
 
 <table>
 <tr>
 <td valign="top" width="50%">
 
-### 💼 产品实践
+### 💼 What I’m working on
 
-**视频工作流** · 在 Lancer 里接入豆包会话，提取视频关键帧，把分析依据和交接文件放回同一工作区。
+**Video analysis** · I use Lancer to pull key frames from videos and keep them alongside the notes they support.
 
-**调研与增长** · 我也在用这套工作台探索全球竞品调研、GTM 和京东经营投放。
+**Market research** · I’m exploring how the same workspace can support competitor research, go-to-market planning, and advertising on JD.com.
 
 </td>
 <td valign="top" width="50%">
 
-### 💻 开源项目
+### 💻 Open source
 
-**[Lancer](https://github.com/raylee-ai/lancer)** · 基于 pi-gui 和 pi 的桌面 AI 工作区。在 GitTree 里可以沿着并行会话，追踪每份交付物的来路。
+**[Lancer](https://github.com/raylee-ai/lancer)** · A desktop AI workspace built on pi-gui and pi. Its GitTree view shows where sessions branch, how they come back together, and which files they produce.
 
-**[AI-Native UI Skills](https://github.com/raylee-ai/ai-native-ui-skill)** · 给 Codex 用的黑白界面设计技能，包含中文排版、弹簧动效和交互组件示例。
+**[AI-Native UI Skills](https://github.com/raylee-ai/ai-native-ui-skill)** · Design skills for Codex, with examples of monochrome interfaces, Chinese typography, and spring animations.
 
 </td>
 </tr>
